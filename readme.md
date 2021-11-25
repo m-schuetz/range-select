@@ -7,7 +7,7 @@ Note: It's hacked together and serves my purposes, but might not be robust to ed
 
 
 <p align="center">
-	<img src="./screenshot.png" width="300px">
+	<img src="./slider.png" width="300px">
 </p>
 
 [Try out the slider here.](https://potree.org/permanent/RangeSelect/)
