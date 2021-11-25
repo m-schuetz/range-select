@@ -5,9 +5,12 @@ A range selection slider using Web Components that can be used like a regular ht
 
 Note: It's hacked together and serves my purposes, but might not be robust to edge-cases and unintented usage.
 
-<center>
-<img src="./screenshot.jpg">
-</center>
+
+<p align="center">
+	<img src="./screenshot.jpg">
+</p>
+
+[Try out the slider here.](https://potree.org/permanent/RangeSelect/)
 
 # Usage
 
