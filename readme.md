@@ -7,7 +7,7 @@ Note: It's hacked together and serves my purposes, but might not be robust to ed
 
 
 <p align="center">
-	<img src="./screenshot.png">
+	<img src="./screenshot.png" width="300px">
 </p>
 
 [Try out the slider here.](https://potree.org/permanent/RangeSelect/)
@@ -39,4 +39,5 @@ Note: It's hacked together and serves my purposes, but might not be robust to ed
 
 # References
 
-https://stackoverflow.com/a/31083391/913630
+* https://stackoverflow.com/a/31083391/913630
+* https://github.com/Wildhoney/ngRangeSlider
